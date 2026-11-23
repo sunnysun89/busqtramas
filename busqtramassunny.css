@@ -98,7 +98,7 @@
 .infosunny4{
   flex:1;
   min-width:0;
-  height:200px;
+  min-height:200px;
   display:flex;
   flex-direction:column;
   color:var(--sunny4-texto);
