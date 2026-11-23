@@ -137,6 +137,7 @@
 .descsunny4{
   flex:1;
   margin-top:8px;
+  min-height:100px;
   padding:6px 8px 6px 0;
   font-size:12px;
   line-height:1.6;
