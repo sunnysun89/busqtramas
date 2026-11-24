@@ -6,6 +6,7 @@
   --sunny4-azul:#5C94AD;
   --sunny4-gris:#a9acb8;
   --sunny4-fuente:'Quicksand',sans-serif;
+  --sunny4-fuente-titulo:'Reenie Beenie';
 
   display:flex;
   align-items:center;
@@ -116,8 +117,9 @@
 }
 
 .nombresunny4{
+  font-family:var(--sunny4-fuente-titulo);
+  font-weight:400;   
   font-size:18px;
-  font-weight:700;
   letter-spacing:1px;
   line-height:1.2;
   margin-top:6px;
